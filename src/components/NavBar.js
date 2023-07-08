@@ -36,7 +36,7 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="https://durontoalim.github.io/abdulalim-react-app">
             <h2 className="text-white">Alim</h2>
             {/* <img src={logo} alt="Logo" /> */}
           </Navbar.Brand>
